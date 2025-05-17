@@ -20,7 +20,7 @@ export default function Contact() {
             <button type="submit" className="w-full py-2 rounded bg-indigo-600 text-white font-semibold shadow hover:bg-indigo-700 transition" disabled>Send Message</button>
           </form>
           <p className="text-white/70 text-center mt-4">
-            Or email us directly at <a href="mailto:contact@soccerrandom.me" className="underline hover:text-blue-200">contact@soccerrandom.me</a>
+            Or email us directly at <a href="mailto:lixiaoliang870519@gmail.com" className="underline hover:text-blue-200">lixiaoliang870519@gmail.com</a>
           </p>
         </div>
       </main>

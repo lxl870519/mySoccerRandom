@@ -17,7 +17,7 @@ export default function About() {
             We are a passionate team of game lovers and web developers. We believe in the power of play and community. Our goal is to continuously expand our game library and provide a seamless, enjoyable experience for everyone.
           </p>
           <p className="text-white/70 text-center">
-            For business inquiries or feedback, please contact us at <a href="mailto:contact@soccerrandom.me" className="underline hover:text-blue-200">contact@soccerrandom.me</a>.
+            For business inquiries or feedback, please contact us at <a href="mailto:lixiaoliang870519@gmail.com" className="underline hover:text-blue-200">lixiaoliang870519@gmail.com</a>.
           </p>
         </div>
       </main>

@@ -55,4 +55,4 @@ SoccerRandom.me 是一个专注于在线小游戏的平台，首发游戏为 Soc
 
 ---
 
-如有建议或合作意向，请联系站长。 
+如有建议或合作意向，请联系站长：lixiaoliang870519@gmail.com 

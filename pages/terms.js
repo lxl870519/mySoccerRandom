@@ -21,7 +21,7 @@ export default function Terms() {
             <li>These terms may be updated at any time. Continued use of the site constitutes acceptance of the new terms.</li>
           </ul>
           <p className="text-white/70">
-            If you have any questions about these Terms of Service, please contact us at <a href="mailto:contact@soccerrandom.me" className="underline hover:text-blue-200">contact@soccerrandom.me</a>.
+            If you have any questions about these Terms of Service, please contact us at <a href="mailto:lixiaoliang870519@gmail.com" className="underline hover:text-blue-200">lixiaoliang870519@gmail.com</a>.
           </p>
         </div>
       </main>

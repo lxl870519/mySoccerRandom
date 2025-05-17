@@ -22,7 +22,7 @@ export default function DMCA() {
             <li>Your electronic or physical signature</li>
           </ul>
           <p className="text-white/70">
-            Please send DMCA notices to <a href="mailto:contact@soccerrandom.me" className="underline hover:text-blue-200">contact@soccerrandom.me</a>.
+            Please send DMCA notices to <a href="mailto:lixiaoliang870519@gmail.com" className="underline hover:text-blue-200">lixiaoliang870519@gmail.com</a>.
           </p>
         </div>
       </main>

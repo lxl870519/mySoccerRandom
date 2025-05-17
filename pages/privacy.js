@@ -18,7 +18,7 @@ export default function Privacy() {
             <li>We may use cookies and analytics tools to improve user experience and analyze site traffic.</li>
             <li>We do not sell, trade, or transfer your information to outside parties.</li>
             <li>Links to third-party sites are provided for your convenience; we are not responsible for their content or privacy practices.</li>
-            <li>For any privacy-related questions, contact us at <a href="mailto:contact@soccerrandom.me" className="underline hover:text-blue-200">contact@soccerrandom.me</a>.</li>
+            <li>For any privacy-related questions, contact us at <a href="mailto:lixiaoliang870519@gmail.com" className="underline hover:text-blue-200">lixiaoliang870519@gmail.com</a>.</li>
           </ul>
           <p className="text-white/70">
             By using SoccerRandom.me, you consent to this Privacy Policy. We may update this policy from time to time. Please review it periodically.
